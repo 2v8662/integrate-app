@@ -1,4 +1,4 @@
-### Deploment
+### Deployment
 
 https://integrate-app.vercel.app/
 
