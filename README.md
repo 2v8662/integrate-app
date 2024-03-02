@@ -1,8 +1,6 @@
 ### Deploment
 
-```sh
 https://integrate-app.vercel.app/
-```
 
 ## Project Setup
 
